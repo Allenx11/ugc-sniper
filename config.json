@@ -45,8 +45,8 @@
         "wait_time": 1
     },
     "discord": {
-        "enabled": false,
+        "enabled": true,
         "prefix": "$",
-        "token": ""
+        "token": "MTEwMzY0MzYxMzQ0MDc3MDE3OQ.GLcR7n.PeXjmhvJXZnWBL2f02C4p4uiD2DJTFZspaUi4A"
     }
 }
